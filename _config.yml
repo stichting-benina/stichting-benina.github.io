@@ -1,0 +1,43 @@
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+name: Methods
+exclude:
+- CONTRIBUTING.md
+- Gemfile
+- Gemfile.lock
+- LICENSE.md
+- README.md
+- go
+- vendor
+
+permalink: pretty
+highlighter: rouge
+
+sass:
+  style: compressed
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+  methods:
+    output: true
+    permalink: /:path/
+site:
+  title: Stichting Benina
+
+description: Website voor Stichting Benina
+
+repos:
+- name: stichting-benina.github.io
+  description: Stichting Benina
+  url: https://github.com/stichting-benina/stichting-benina.github.io
+
+plugins:
+  - jekyll-last-modified-at
+  - jemoji
+  - jekyll-mentions
+  - jekyll-redirect-from
+
+google_analytics_ua: XX-XXXXXXXX-XX
