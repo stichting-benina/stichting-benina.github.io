@@ -40,4 +40,4 @@ plugins:
   - jekyll-mentions
   - jekyll-redirect-from
 
-google_analytics_ua: XX-XXXXXXXX-XX
+google_analytics_ua: UA-127597737-1
