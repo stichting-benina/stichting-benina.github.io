@@ -14,7 +14,7 @@ layout: page
 * bestuurslid: Joost Baardman \\
 	[http://www.inkahootz.nl/het-team/](http://www.inkahootz.nl/het-team/)
 * penningmeester: Joop Laan \\
-	[https://www.jooplaan.com/profile/](https://www.jooplaan.com/profile/)
+	[https://www.jooplaan.com/](https://www.jooplaan.com/)
 
 
 ## adres
