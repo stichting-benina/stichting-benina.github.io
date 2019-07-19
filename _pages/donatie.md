@@ -14,7 +14,7 @@ De mannen van het koelijs lijken één met hun werk. In een doorgaand proces van
 De mannen van het ijs zijn een verdwijnende industriële mens uit het tijdperk van voor de automatisering. Het ijs smelt; wordt water en damp, vele koelijsfabrieken sluiten.
 
 ## Doneren
-Wilt u de documentaire Frozen water/Es balok mogelijk maken maak dan een bedrag over naar:
+Wilt u de documentaire *Frozen water/Es balok* mogelijk maken maak dan een bedrag over naar:
 
 <div class="usa-alert">
 	Stichting Benina*
@@ -27,7 +27,7 @@ Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent de docu
 <img src="/images/6-Still36-MVI_8915.jpg" alt="Een stapel met ijsblokken en een man die een blok met een ijspik van de stapel haalt" width="960">
 <br> *Film stil*
 
-Voor de eerste fase van het project Frozen water/Es balok heeft het Amsterdams Fonds voor de Kunst een ontwikkelbudget verleend. Dat is niet genoeg. Via deze weg willen we een bedrag van € 15.000,- werven.
+Voor de eerste fase van het project *Frozen water/Es balok* heeft het Amsterdams Fonds voor de Kunst een ontwikkelbudget verleend. Dat is niet genoeg. Via deze weg willen we een bedrag van € 15.000,- werven.
 
 Stichting Benina bestaat door het enthousiasme van een onbezoldigd bestuur. Het wil cultuur in de meest algemene zin van het woord bevorderen.
 
