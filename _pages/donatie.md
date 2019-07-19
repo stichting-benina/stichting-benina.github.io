@@ -31,6 +31,8 @@ Voor de eerste fase van het project Frozen water/Es balok heeft het Amsterdams F
 
 Stichting Benina bestaat door het enthousiasme van een onbezoldigd bestuur. Het wil cultuur in de meest algemene zin van het woord bevorderen.
 
+*Aan het verkrijgen van een Culturele ANBI status wordt gewerkt.
+
 ## Contact
 U kunt te allen tijde contact opnemen met de maker Carina Ellemers <a href="mailto:c.ellemers@planet.nl">c.ellemers@planet.nl</a> of met voorzitter van het bestuur van de stichting, Inez van Eijk <a href="mailto:ivaneijk@dds.nl">ivaneijk@dds.nl</a>.
 
