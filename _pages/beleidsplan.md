@@ -1,57 +1,59 @@
 ---
-title: toekomst/ beleidsplan 2018 & 2021
+title: toekomst/ beleidsplan 2019 - 2022
 layout: page
 ---
 
-# toekomst/ beleidsplan 2018 & 2021
+# toekomst/ beleidsplan 2019 - 2022
 
 Voor de volgende drie jaar bestaat het beleidsplan uit
-* het ontwikkelen van plannen voor films en filminstallatie en realisering
-* het voortzetten en uitbreiden van cursusaanbod
+* het ontwikkelen van plannen voor films en video-installatie en realisering
 * het uitbreiden van de stichting met ‘vrienden’ (o.a. donateurs en vrijwilligers)
+* culturele ANBI status verwerven
 
 
-<h2>Sumur</h2>
+## Frozen water/Es balok
 
-film \\
-over architectuur \\
-bestaat er werkelijk zoiets als de ziel van een gebouw? \\
-gestreefd wordt naar een periode van research doen, aanvragen verzorgen\*, financiering rondkrijgen en realisering in \\
-2018/2019
+In *Frozen water/Es balok* is te zien hoe koelijsproductie en distributie in en om een kleine koelijsfabriek, als een continuerend cyclisch 24-uurs proces in de stad Klaten op midden Java plaatsvindt.
 
-<h2>Es balok</h2>
+De mannen van het koelijs lijken één met hun werk. In een doorgaand proces van vullen, slepen, stapelen, rijden en hakken vullen zij met kalme volharding grote ijzeren containers met water. Als dit ijs is geworden, glijden de mannen de ijsstaven over betegelde vloeren en door muurgaten. Onder de gloed van straatlantarens laden zij met schijnbaar gemak de 60 kilo wegende staven op distributiepunten uit. De tropische hitte bepaalt het dag- en nachtritme van het ijs en de mannen. In de vroege ochtend zal het ijs in blokken worden gezaagd en verder worden vervoerd met brommers en karren. Voordat de zon te heet wordt, zal het ijs bij de gebruiker zijn.
 
-over tijd \\
-onderzoek naar het maken van een filminstallatie \\
-gestreefd wordt naar een periode van research doen, aanvragen verzorgen\*, financiering rondkrijgen en realisering in \\
-2018/2019
+De mannen van het ijs zijn een verdwijnende industriële mens uit het tijdperk van voor de automatisering. Het ijs smelt; wordt water en damp, vele koelijsfabrieken sluiten.
 
-<h2>Crossroads</h2>
+### video-projectie van drie kanalen
 
-film of filminstallatie \\
-over mens en verkeer, orde en chaos \\
-wat als mensen i.p.v. stoplichten, regels, borden en wegwijziering verkeer regelen? \\
-gestreefd wordt naar een periode van research doen, aanvragen verzorgen\*, financiering rondkrijgen en realisering in \\
+Nachtopnames van drie fases koelijsproductie in Indonesië in en om een kleine koelijsfabriek  in de stad Klaten, getoond op drie kanalen.
+
+Met steun van donateurs van Stichting Benina en het Amsterdams Fonds voor de Kunsten tot stand gekomen
+
+* opnames Java november en december 2018
+* presentatie bij galerie Hidde van Seggelen Gallery op bezoek bij Ellen de Bruijne Projects augustus 2019
+
+* filmstills (in 30-er jaren patroonpapier beplakte passe-partouts) werden door galerie Hidde van Seggelen Gallery getoond op Art Rotterdam februari 2019
+
+### documentaire
+aanvragen verzorgen*, [financiering rondkrijgen en realisering](/donatie)
 2019/2020
 
-<h2>Bettino</h2>
+## Sumur
 
-over gender \\
-onderzoek naar de mogelijkheid van een artitsieke film waarin wordt onderzocht hoe mannelijke en vrouwelijke energie zichtbaar wordt \\
-gestreefd wordt naar een periode van research doen, aanvragen verzorgen\*, financiering rondkrijgen en realisering in \\
-2020/2021
+film \\
+over architectuur\\
+bestaat er werkelijk zoiets als de ziel van een gebouw?\\
+gestreefd wordt naar een periode van research doen, aanvragen verzorgen*, financiering rondkrijgen en realisering in 2021
 
+## Crossroads
 
-<h2>En verder</h2>
+film of filminstallatie\\
+over mens en verkeer, orde en chaos in miljoenenstad Jakarta\\
+wat als mensen - i.p.v. stoplichten, regels, borden en bewegwijzering -  het verkeer regelen?\\
+gestreefd wordt naar een periode van research doen, aanvragen verzorgen*, financiering rondkrijgen en realisering in
+2021
 
-het voortzetten en uitbreiden van creatieve cursussen, o.a. door:
-* zomerse weekendcursusen te organiseren en aan te bieden: buiten tekenen en schilderen
-* een website voor de cursussen te maken
-* uitbreiding werving (advertenties met verwijzing naar website, eenvoudig door in de buurt van de te organiseren cursus in supermarkten e.d. briefjes met mee te nemen verwijzing naar website op te hangen) \\
+## En verder
+
+* werving voor de stichting inzetten, een kring van vrienden betrekken bij de werkzaamheden van de stichting. dit kan door financiële bijdrage of door werkzaamheden voor de stichting te verrichten.
 2018 - 2021
-* werving voor de stichting inzetten, een kring van vrienden betrekken bij de werkzaamheden van de stichting. dit kan door financiële bijdrage of door werkzaamheden voor de stichting te verrichten. \\
-2018 - 2021
+* Van het Amsterdams Fonds voor de Kunsten is in 2018 een ontwikkelbudget toegezegd gekregen voor het project Es balok. Andere financieringsmogelijkheden worden onderzocht bij fondsen als Stichting Niemeijer Fonds als ook wordt Cinecrowd i.s.m. het Mondriaanfonds onderzocht.
 
-\* onderzocht worden fondsen als het Amsterdams Fonds voor de Kunsten, het Nederlands Filmfonds, en  het Stichting Niemeijer Fonds.
-
-
+<br><br><br><br>
+<a href="https://www.amsterdamsfondsvoordekunst.nl/" target="_blank"><img src="/images/afk-logo.svg" alt="Logo Amsterdams Fonds voor de kunst AFK" width="342"></a>
