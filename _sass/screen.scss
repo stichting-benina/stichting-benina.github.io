@@ -3,6 +3,17 @@ body {
   font-size: $base-font-size;
 }
 
+.table-status-donations {
+	min-width: auto;
+	max-width: 20rem;
+	font-size: 1.35rem;
+}
+
+.table-status-donations th,
+.table-status-donations td {
+	padding: 0.75rem;
+}
+
 .list-unstyled {
   padding-left: 0;
 

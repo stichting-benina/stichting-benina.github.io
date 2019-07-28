@@ -1,8 +1,29 @@
 ---
-title: Donatie
+title: Doneren
 layout: page
 ---
-# ondersteun het filmproject *Frozen water/Es balok*
+# Doneren
+
+Wilt u de documentaire *Frozen water/Es balok* mogelijk maken maak dan een bedrag over naar:
+
+<div class="usa-alert">
+	Stichting Benina*
+	NL29 INGB 0000 8374 81
+	t.a.v. Frozen water
+</div>
+
+Voor de eerste fase van het project *Frozen water/Es balok* heeft het Amsterdams Fonds voor de Kunst een ontwikkelbudget verleend. Dat is niet genoeg. Via deze weg willen we een bedrag van € 15.000,- werven.
+
+Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent de documentaire. Zodra de volledige financiering rond is en het project daadwerkelijk begint, krijgt u bericht, één maart 2020 is de streefdatum.
+
+### Stand
+
+{:.table-status-donations}
+| Datum         | Bedrag   |
+| ------------- |---------:|
+| 27 juli 2019  |  €  850,-|
+
+## Meer informatie
 
 ### In *Frozen water/Es balok* is te zien hoe koelijsproductie en distributie in en om een kleine koelijsfabriek, als een continuerend cyclisch 24-uurs proces in de stad Klaten op midden Java plaatsvindt.
 
@@ -13,21 +34,10 @@ De mannen van het koelijs lijken één met hun werk. In een doorgaand proces van
 
 De mannen van het ijs zijn een verdwijnende industriële mens uit het tijdperk van voor de automatisering. Het ijs smelt; wordt water en damp, vele koelijsfabrieken sluiten.
 
-## Doneren
-Wilt u de documentaire *Frozen water/Es balok* mogelijk maken maak dan een bedrag over naar:
-
-<div class="usa-alert">
-	Stichting Benina*
-	NL29 INGB 0000 8374 81
-	t.a.v. Frozen water
-</div>
-
-Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent de documentaire. Zodra de volledige financiering rond is en het project daadwerkelijk begint, krijgt u bericht, één maart 2020 is de streefdatum.
-
 <img src="/images/6-Still36-MVI_8915.jpg" alt="Een stapel met ijsblokken en een man die een blok met een ijspik van de stapel haalt" width="960">
 \\ <small>*filmstill* - ijs ’s nachts in vrachtwagens laden bij de fabriek, Klaten, Java 2018</small>
 
-Voor de eerste fase van het project *Frozen water/Es balok* heeft het Amsterdams Fonds voor de Kunst een ontwikkelbudget verleend. Dat is niet genoeg. Via deze weg willen we een bedrag van € 15.000,- werven.
+
 
 Stichting Benina bestaat door het enthousiasme van een onbezoldigd bestuur. Het wil cultuur in de meest algemene zin van het woord bevorderen.
 
