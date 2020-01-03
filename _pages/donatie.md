@@ -22,6 +22,7 @@ Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent het pro
 | Datum         | Bedrag   |
 | ------------- |---------:|
 | 27 juli 2019  |  €  850,-|
+| 2 januari 2020  |  €  2890,-|
 
 ## Meer informatie
 
@@ -54,7 +55,7 @@ U kunt te allen tijde contact opnemen met de maker Carina Ellemers <a href="mail
 
 [<img width="342" class="donor-logo" alt="Logo Tungsten Pro" src="/images/afk-logo.svg">](https://www.amsterdamsfondsvoordekunst.nl/)
 
-[<img width="342" class="donor-logo" alt="Logo Amsterdams Fonds voor de kunst AFK" src="/images/tungsten-pro-logo.png">](https://www.tungstenstudio.nl/)
+[<img width="210" class="donor-logo" alt="Logo Amsterdams Fonds voor de kunst AFK" src="/images/tungsten-pro-logo.png">](https://www.tungstenstudio.nl/)
 <br><small>[https://www.tungstenstudio.nl/](https://www.tungstenstudio.nl/)</small>
 
 </div>

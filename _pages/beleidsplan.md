@@ -60,7 +60,7 @@ gestreefd wordt naar een periode van research doen, aanvragen verzorgen*, financ
 
 [<img width="342" class="donor-logo" alt="Logo Tungsten Pro" src="/images/afk-logo.svg">](https://www.amsterdamsfondsvoordekunst.nl/)
 
-[<img width="342" class="donor-logo" alt="Logo Amsterdams Fonds voor de kunst AFK" src="/images/tungsten-pro-logo.png">](https://www.tungstenstudio.nl/)
+[<img width="210" class="donor-logo" alt="Logo Amsterdams Fonds voor de kunst AFK" src="/images/tungsten-pro-logo.png">](https://www.tungstenstudio.nl/)
 <br><small>[https://www.tungstenstudio.nl/](https://www.tungstenstudio.nl/)</small>
 
 </div>
