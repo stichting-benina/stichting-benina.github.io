@@ -4,7 +4,7 @@ layout: page
 ---
 # Doneren
 
-Wilt u de documentaire *Frozen water/Es balok* mogelijk maken maak dan een bedrag over naar:
+Wilt u het interdisciplinair project (film - expositie - publicatie) *Frozen water/Es balok* mogelijk maken maak dan een bedrag over naar:
 
 <div class="usa-alert">
 	Stichting Benina*
@@ -14,7 +14,7 @@ Wilt u de documentaire *Frozen water/Es balok* mogelijk maken maak dan een bedra
 
 Voor de eerste fase van het project *Frozen water/Es balok* heeft het Amsterdams Fonds voor de Kunst een ontwikkelbudget verleend. Dat is niet genoeg. Via deze weg willen we een bedrag van € 15.000,- werven.
 
-Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent de documentaire. Zodra de volledige financiering rond is en het project daadwerkelijk begint, krijgt u bericht, één maart 2020 is de streefdatum.
+Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent het project. Zodra de volledige financiering rond is en het project daadwerkelijk begint, krijgt u bericht, één maart 2020 is de streefdatum.
 
 ### Stand
 
@@ -47,10 +47,14 @@ Stichting Benina bestaat door het enthousiasme van een onbezoldigd bestuur. Het 
 U kunt te allen tijde contact opnemen met de maker Carina Ellemers <a href="mailto:c.ellemers@planet.nl">c.ellemers@planet.nl</a> of met voorzitter van het bestuur van de stichting, Inez van Eijk <a href="mailto:ivaneijk@dds.nl">ivaneijk@dds.nl</a>.
 
 <img src="/images/IMG_8756.jpg" alt="cameraman Tino Djumini en Carina Ellemers in Jogjakarta" width="960">
-\\ <small>*cameraman Tino Djumini en Carina Ellemers in Jogjakarta November 2018*</small>
+<small>*cameraman Tino Djumini en Carina Ellemers in Jogjakarta November 2018*</small>
+<br><br><br>
 
+<div class="flexbox">
 
-\\
-\\
-\\
-<a href="https://www.amsterdamsfondsvoordekunst.nl/" target="_blank"><img src="/images/afk-logo.svg" alt="Logo Amsterdams Fonds voor de kunst AFK" width="342"></a>
+[<img width="342" class="donor-logo" alt="Logo Tungsten Pro" src="/images/afk-logo.svg">](https://www.amsterdamsfondsvoordekunst.nl/)
+
+[<img width="342" class="donor-logo" alt="Logo Amsterdams Fonds voor de kunst AFK" src="/images/tungsten-pro-logo.png">](https://www.tungstenstudio.nl/)
+<br><small>[https://www.tungstenstudio.nl/](https://www.tungstenstudio.nl/)</small>
+
+</div>

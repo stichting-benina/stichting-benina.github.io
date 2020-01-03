@@ -4,14 +4,14 @@ body {
 }
 
 .table-status-donations {
-	min-width: auto;
-	max-width: 20rem;
-	font-size: 1.35rem;
+  min-width: auto;
+  max-width: 20rem;
+  font-size: 1.35rem;
 }
 
 .table-status-donations th,
 .table-status-donations td {
-	padding: 0.75rem;
+  padding: 0.75rem;
 }
 
 .list-unstyled {
@@ -44,5 +44,14 @@ body {
     font-weight: 400;
     margin-top: 0;
     margin-bottom: .6rem;
+  }
+  .flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .donor-logo {
+    // width: 50%;
   }
 }

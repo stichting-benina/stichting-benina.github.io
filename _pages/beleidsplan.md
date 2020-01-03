@@ -30,7 +30,7 @@ Met steun van donateurs van Stichting Benina en het Amsterdams Fonds voor de Kun
 
 * filmstills (in 30-er jaren patroonpapier beplakte passe-partouts) werden door galerie Hidde van Seggelen Gallery getoond op Art Rotterdam februari 2019
 
-### documentaire
+### interdisciplinair project (film - expositie - publicatie)
 aanvragen verzorgen*, [financiering rondkrijgen en realisering](/donatie)
 2019/2020
 
@@ -56,4 +56,11 @@ gestreefd wordt naar een periode van research doen, aanvragen verzorgen*, financ
 * Van het Amsterdams Fonds voor de Kunsten is in 2018 een ontwikkelbudget toegezegd gekregen voor het project Es balok. Andere financieringsmogelijkheden worden onderzocht bij fondsen als Stichting Niemeijer Fonds als ook wordt Cinecrowd i.s.m. het Mondriaanfonds onderzocht.
 
 <br><br><br><br>
-<a href="https://www.amsterdamsfondsvoordekunst.nl/" target="_blank"><img src="/images/afk-logo.svg" alt="Logo Amsterdams Fonds voor de kunst AFK" width="342"></a>
+<div class="flexbox">
+
+[<img width="342" class="donor-logo" alt="Logo Tungsten Pro" src="/images/afk-logo.svg">](https://www.amsterdamsfondsvoordekunst.nl/)
+
+[<img width="342" class="donor-logo" alt="Logo Amsterdams Fonds voor de kunst AFK" src="/images/tungsten-pro-logo.png">](https://www.tungstenstudio.nl/)
+<br><small>[https://www.tungstenstudio.nl/](https://www.tungstenstudio.nl/)</small>
+
+</div>
