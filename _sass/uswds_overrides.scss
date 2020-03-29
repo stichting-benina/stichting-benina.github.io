@@ -109,6 +109,10 @@ h1 {
   }
 }
 
+.extra-margin-bottom {
+  margin-bottom: 2rem;
+}
+
 // Removing pipe between secondary nav links
 .usa-nav-secondary-links li:not(:last-child)::after {
   content: '';
@@ -249,12 +253,13 @@ button,
 [type='submit'],
 [type='reset'],
 [type='image'] {
-  background-color: $color-medium;
+
+  background-color: $color-button-primary;
   font-family: $font-sans;
   width: auto;
 
   &:hover {
-    background-color: $color-medium-hover;
+    background-color: $color-button-hover;
   }
 
   &.usa-button-secondary,

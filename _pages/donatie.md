@@ -4,17 +4,24 @@ layout: page
 ---
 # Doneren
 
+Voor de eerste fase van het project *Frozen water/Es balok* heeft het Amsterdams Fonds voor de Kunst een ontwikkelbudget verleend. Dat is niet genoeg. Via deze weg willen we een bedrag van € 15.000,- werven.
+
+Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent het project. Zodra de volledige financiering rond is en het project daadwerkelijk begint, krijgt u bericht, één maart 2020 is de streefdatum.
+
 Wilt u het interdisciplinair project (film - expositie - publicatie) *Frozen water/Es balok* mogelijk maken maak dan een bedrag over naar:
 
-<div class="usa-alert">
+<div class="usa-alert extra-margin-bottom">
 	Stichting Benina*
 	NL29 INGB 0000 8374 81
 	t.a.v. Frozen water
 </div>
 
-Voor de eerste fase van het project *Frozen water/Es balok* heeft het Amsterdams Fonds voor de Kunst een ontwikkelbudget verleend. Dat is niet genoeg. Via deze weg willen we een bedrag van € 15.000,- werven.
+##  Direct doneren
 
-Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent het project. Zodra de volledige financiering rond is en het project daadwerkelijk begint, krijgt u bericht, één maart 2020 is de streefdatum.
+Wilt u een een bedrag direct overmaken met iDEAL of PayPal voor een donatie aan Stichting Benina? Nu kan het!
+
+<a class="usa-button usa-button-primary" target="_blank" href="https://useplink.com/payment/UvvgIsjOpdnc17GJZHuK/">Maak nu een bedrag over</a>
+
 
 ### Stand
 
