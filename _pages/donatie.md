@@ -6,7 +6,9 @@ layout: page
 
 Voor de eerste fase van het project *Frozen water/Es balok* heeft het Amsterdams Fonds voor de Kunst een ontwikkelbudget verleend. Dat is niet genoeg. Via deze weg willen we een bedrag van € 15.000,- werven.
 
-Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent het project. Zodra de volledige financiering rond is en het project daadwerkelijk begint, krijgt u bericht, één maart 2020 is de streefdatum.
+Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent het project. Zodra de volledige financiering rond is en het project daadwerkelijk begint, krijgt u bericht.
+
+i.v.m. Corona is de planning van het project even uitgesteld
 
 Wilt u het interdisciplinair project (film - expositie - publicatie) *Frozen water/Es balok* mogelijk maken maak dan een bedrag over naar:
 
@@ -30,6 +32,8 @@ Wilt u een een bedrag direct overmaken met iDEAL of PayPal voor een donatie aan 
 | ------------- |---------:|
 | 27 juli 2019  |  €  850,-|
 | 2 januari 2020  |  €  2890,-|
+| 27 maart 2020  |  € 3528,-|
+
 
 ## Meer informatie
 
