@@ -33,7 +33,7 @@ Wilt u een een bedrag direct overmaken met iDEAL of PayPal voor een donatie aan 
 | 27 juli 2019  |  €  850,-|
 | 2 januari 2020  |  €  2890,-|
 | 26 mei 2020  |  € 3779,-|
-
+| 22 december 2020  |  € 4353,-|
 
 ## Meer informatie
 
