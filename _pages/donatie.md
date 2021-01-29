@@ -21,7 +21,7 @@ Wilt u een een bedrag direct overmaken met iDEAL of PayPal voor een donatie aan 
 
 ### Crowdfunding geslaagd
 
-Voor het project Frozen water is het benodigde bedrag van € 5280,18 op 1 februari 2021 verworven. Stichting Benina is de 41 donateurs die hiervoor gezorgd hebben innig dankbaar.
+Voor het project Frozen water is het benodigde bedrag van € 5280,18 op 1 februari 2021 verworven. Stichting Benina is de 41 donateurs innig dankbaar.
 
 Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent het project. Zodra de financiering volledig rond is (er zijn aanvragen ingediend bij het Mondriaanfonds en het Amsterdams Fonds voor de Kunsten) krijgt u bericht.
 
