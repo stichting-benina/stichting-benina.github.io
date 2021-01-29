@@ -11,10 +11,6 @@ Wilt Stichting Benina steunen maak dan een bedrag over naar:
 	NL29 INGB 0000 8374 81
 </div>
 
-
-
-##  Direct doneren
-
 Wilt u een een bedrag direct overmaken met iDEAL of PayPal voor een donatie aan Stichting Benina? Nu kan het!
 
 <a class="usa-button usa-button-primary" target="_blank" href="https://useplink.com/payment/UvvgIsjOpdnc17GJZHuK/">Maak nu een bedrag over</a>
