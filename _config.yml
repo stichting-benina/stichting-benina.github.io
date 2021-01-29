@@ -1,5 +1,5 @@
 markdown: kramdown
-host: localhost
+host: 127.0.0.1
 kramdown:
   parse_block_html: true
 name: Methods
