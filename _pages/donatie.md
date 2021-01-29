@@ -4,7 +4,7 @@ layout: page
 ---
 # Doneren
 
-Wilt Stichting Benina steunen maak dan een bedrag over naar:
+Wilt u Stichting Benina steunen maak dan een bedrag over naar:
 
 <div class="usa-alert extra-margin-bottom">
 	Stichting Benina
@@ -19,9 +19,9 @@ Wilt u een een bedrag direct overmaken met iDEAL of PayPal voor een donatie aan 
 
 ## Donaties voor project Frozen water
 
-### Fondsenwerving geslaag dankzij 41 donaties die samen € 5280,18 opleverden
+### Crowdfunding geslaagd
 
-Op 1 februari 2021 is voor het project Frozen water na een periode die startte in 2019 het benodigde bedrag van € 5280,18 uiteindelijk gehaald. Stichting Benina is de 41 donateurs die hiervoor gezorgd hebben innig dankbaar.
+Voor het project Frozen water is het benodigde bedrag van € 5280,18 op 1 februari 2021 verworven. Stichting Benina is de 41 donateurs die hiervoor gezorgd hebben innig dankbaar.
 
 Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent het project. Zodra de financiering volledig rond is (er zijn aanvragen ingediend bij het Mondriaanfonds en het Amsterdams Fonds voor de Kunsten) krijgt u bericht.
 
