@@ -4,19 +4,14 @@ layout: page
 ---
 # Doneren
 
-Voor de eerste fase van het project *Frozen water/Es balok* heeft het Amsterdams Fonds voor de Kunst een ontwikkelbudget verleend. Dat is niet genoeg. Via deze weg willen we een bedrag van € 15.000,- werven.
-
-Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent het project. Zodra de volledige financiering rond is en het project daadwerkelijk begint, krijgt u bericht.
-
-i.v.m. Corona is de planning van het project even uitgesteld
-
-Wilt u het interdisciplinair project (film - expositie - publicatie) *Frozen water/Es balok* mogelijk maken maak dan een bedrag over naar:
+Wilt Stichting Benina steunen maak dan een bedrag over naar:
 
 <div class="usa-alert extra-margin-bottom">
-	Stichting Benina*
+	Stichting Benina
 	NL29 INGB 0000 8374 81
-	t.a.v. Frozen water
 </div>
+
+
 
 ##  Direct doneren
 
@@ -24,18 +19,15 @@ Wilt u een een bedrag direct overmaken met iDEAL of PayPal voor een donatie aan 
 
 <a class="usa-button usa-button-primary" target="_blank" href="https://useplink.com/payment/UvvgIsjOpdnc17GJZHuK/">Maak nu een bedrag over</a>
 
+<small>Noot: aan het verkrijgen van een Culturele ANBI status wordt gewerkt.</small>
 
-### Stand
+## Donaties voor project Frozen water
 
-{:.table-status-donations}
-| Datum         | Bedrag   |
-| ------------- |---------:|
-| 27 juli 2019  |  €  850,-|
-| 2 januari 2020  |  €  2890,-|
-| 26 mei 2020  |  € 3779,-|
-| 22 december 2020  |  € 4353,-|
+### Fondsenwerving geslaag dankzij 41 donaties die samen € 5280,18 opleverden
 
-## Meer informatie
+Op 1 februari 2021 is voor het project Frozen water na een periode die startte in 2019 het benodigde bedrag van € 5280,18 uiteindelijk gehaald. Stichting Benina is de 41 donateurs die hiervoor gezorgd hebben innig dankbaar.
+
+Als donateur wordt u op de hoogte gehouden van de ontwikkelingen omtrent het project. Zodra de financiering volledig rond is (er zijn aanvragen ingediend bij het Mondriaanfonds en het Amsterdams Fonds voor de Kunsten) krijgt u bericht.
 
 ### In *Frozen water/Es balok* is te zien hoe koelijsproductie en distributie in en om een kleine koelijsfabriek, als een continuerend cyclisch 24-uurs proces in de stad Klaten op midden Java plaatsvindt.
 
@@ -53,7 +45,7 @@ De mannen van het ijs zijn een verdwijnende industriële mens uit het tijdperk v
 
 Stichting Benina bestaat door het enthousiasme van een onbezoldigd bestuur. Het wil cultuur in de meest algemene zin van het woord bevorderen.
 
-*Aan het verkrijgen van een Culturele ANBI status wordt gewerkt.
+
 
 ## Contact
 U kunt te allen tijde contact opnemen met de maker Carina Ellemers <a href="mailto:c.ellemers@planet.nl">c.ellemers@planet.nl</a> of met voorzitter van het bestuur van de stichting, Inez van Eijk <a href="mailto:ivaneijk@dds.nl">ivaneijk@dds.nl</a>.
