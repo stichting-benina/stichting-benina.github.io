@@ -3,6 +3,10 @@ body {
   font-size: $base-font-size;
 }
 
+#main {
+  min-height: 85vh;
+}
+
 .table-status-donations {
   min-width: 10rem;
   font-size: 1.35rem;
