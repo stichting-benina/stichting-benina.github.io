@@ -16,6 +16,7 @@ layout: page
 * penningmeester: Joop Laan \\
 	[https://www.jooplaan.com/](https://www.jooplaan.com/)
 
+Stichting Benina heeft kennis genomen van de [governance code, de code diversiteit en inclusie](https://bij.cultuur-ondernemen.nl/governance-code-cultuur/principe/introductie) en onderschrijft deze.
 
 ## adres
 
