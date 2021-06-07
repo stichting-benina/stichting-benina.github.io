@@ -22,9 +22,9 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  methods:
+  posts:
     output: true
-    permalink: /:path/
+    permalink: /actueel/:path/
 site:
   title: Stichting Benina
 
@@ -40,5 +40,6 @@ plugins:
   - jemoji
   - jekyll-mentions
   - jekyll-redirect-from
+  - jekyll-feed
 
 google_analytics_ua: UA-127597737-1

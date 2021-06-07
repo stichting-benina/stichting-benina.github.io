@@ -18,3 +18,13 @@ layout: page
 </ul>
 
 <p>Door <a href="/donatie">fondswerving en donaties</a> maakt de stichting haar activiteiten mogelijk. In het verleden hebben o.a. het Prins Bernhard Cultuurfonds Noord Brabant, het ThuisKopieFonds en het Nederlands Filmfonds bijdragen verleend.</p>
+
+<h2>Actueel</h2>
+<ul class="post-list">
+	{% for post in site.posts %}
+		<li>
+			<!-- <p><small><strong>{{ post.date | date: "%e %B %Y" }}</strong> </a></small></p> -->
+			<h2 class="h2-list"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+			</li>
+	{% endfor %}
+</ul>
