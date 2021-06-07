@@ -2,7 +2,7 @@ markdown: kramdown
 host: 127.0.0.1
 kramdown:
   parse_block_html: true
-name: Methods
+name: Benina
 exclude:
 - CONTRIBUTING.md
 - Gemfile
