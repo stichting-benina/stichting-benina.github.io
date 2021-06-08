@@ -28,7 +28,11 @@ collections:
 site:
   title: Stichting Benina
 
-description: Website voor Stichting Benina
+title: Stichting Benina
+description: >- # this means to ignore newlines until "baseurl:"
+  Stichting Benina is opgericht met het doel cultuur in de meest algemene zin van het woord te bevorderen. Specifieke activiteiten van de stichting betreffen het mogelijk maken van artistieke filmprojecten, creatieve cursussen met het doel creativiteit te ontplooien, voor iedereen toegankelijk. De stichting heeft geen winstoogmerk.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.benina.nl" # the base hostname & protocol for your site, e.g. http://example.com
 
 repos:
 - name: stichting-benina.github.io
