@@ -1,6 +1,8 @@
 ---
 title: toekomst/ beleidsplan 2019 - 2022
 layout: page
+image: "/images/benina.png"
+image_alt: "Logo Stichting Benina"
 ---
 
 # toekomst/ beleidsplan 2019 - 2022

@@ -11,18 +11,19 @@
 
   <!-- Open Graph data -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else if post.title %}{{ post.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:image" content="{% if post.share_image %}{{ site.baseurl }}{{ post.share_image }}{% else %}{{ site.baseurl }}/images/benina.png{% endif %}" />
+  <meta property="og:image" content="{% if page.image %}{{ site.baseurl }}{{ page.image }}{% else if post.image %}{{ site.baseurl }}{{ post.image }}{% else %}{{ site.baseurl }}/images/benina.png{% endif %}" />
+  <meta property="og:image:alt" content="{% if page.image_alt %}{{ page.image_alt }}{% else if post.image %}{{ post.image_alt }}{% else %}Logo Stichting Benina{% endif %}" />
   <meta property="og:site_name" content="Stichting Benina" />
   <meta property="og:description" content="{% if page.description %}{{ page.description | truncate: 155 }}{% else if post.description %}{{ post.description | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:type" content="article" />
   <meta property="og:url" content="{{ site.baseurl }}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 
-
   <!-- Twitter Card data -->
   <meta name="twitter:card" value="summary">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else if post.title %}{{ post.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | truncate: 155 }}{% else if post.description %}{{ post.description | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{{ site.baseurl }}/images/benina-logo.png" />
+  <meta name="twitter:image" content="{% if page.image %}{{ site.baseurl }}{{ page.image }}{% else if post.image %}{{ site.baseurl }}{{ post.image }}{% else %}{{ site.baseurl }}/images/benina.png{% endif %}" />
+  <meta name="twitter:image:alt" content="{% if page.image_alt %}{{ page.image_alt }}{% else if post.image %}{{ post.image_alt }}{% else %}Logo Stichting Benina{% endif %}">
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/uswds/1.3.1/js/uswds.min.js"></script>
 

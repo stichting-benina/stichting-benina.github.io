@@ -1,6 +1,8 @@
 ---
 title: Organisatie
 layout: page
+image: "/images/benina.png"
+image_alt: "Logo Stichting Benina"
 ---
 
 # Organisatie

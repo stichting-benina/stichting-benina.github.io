@@ -2,7 +2,8 @@
 layout: post
 title: "Amsterdams Fonds voor de Kunsten, het Mondriaanfonds en de sponsoren maken de solo-presentatie van Carina Ellemers bij kunstinstelling Nieuw Dakota mogelijk"
 description: "Presentatie gepland voor maart-april 2022"
-share_image: "/images/1-Still-regenMVI_0124.jpg"
+image: "/images/1-Still-regenMVI_0124.jpg"
+image_alt: "filmstill - ijs halen bij de fabriek in een tropische regenbui, Klaten, Java 2018"
 date: 2021-05-06 17:45:13 +0200
 categories: nieuws
 ---

@@ -2,7 +2,8 @@
 layout: post
 title: "Crowdfunding project Frozen water/Es balok geslaagd"
 description: "Voor het project Frozen water is het benodigde bedrag van op 1 februari 2021 verworven."
-share_image: "/images/IMG_8756.jpg"
+image: "/images/IMG_8756.jpg"
+image_alt: "cameraman Tino Djumini en Carina Ellemers in Jogjakarta November 2018"
 date: 2021-02-01 17:45:13 +0200
 categories: nieuws
 ---
