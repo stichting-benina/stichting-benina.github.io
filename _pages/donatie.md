@@ -2,7 +2,7 @@
 title: Doneren
 layout: page
 description: "Ondersteun Stichting Benina"
-image: "/images/benina.png"
+image: "/images/benina-landscape.png"
 image_alt: "Logo Stichting Benina"
 ---
 # Doneren

@@ -15,14 +15,14 @@
   <meta property="og:description" content="{% if page.description %}{{ page.description | truncate: 155 }}{% else if post.description %}{{ post.description | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:type" content="article" />
   <meta property="og:url" content="{% if page.url %}{{ page.url | replace:'index.html','' | prepend: site.url }}{% else if post.url %}{{ post.url | replace:'index.html','' | prepend: site.url }}{% endif %}" />
-  <meta property="og:image" content="{{ site.url }}{% if page.image %}{{ page.image }}{% else if post.image %}{{ post.image }}{% else %}/images/benina.png{% endif %}" />
+  <meta property="og:image" content="{{ site.url }}{% if page.image %}{{ page.image }}{% else if post.image %}{{ post.image }}{% else %}/images/benina-landscape.png{% endif %}" />
   <meta property="og:image:alt" content="{% if page.image_alt %}{{ page.image_alt }}{% else if post.image %}{{ post.image_alt }}{% else %}Logo {{ site.title }}{% endif %}" />
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" value="summary">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else if post.title %}{{ post.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | truncate: 155 }}{% else if post.description %}{{ post.description | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{{ site.url }}{% if page.image %}{{ page.image }}{% else if post.image %}{{ post.image }}{% else %}/images/benina.png{% endif %}" />
+  <meta name="twitter:image" content="{{ site.url }}{% if page.image %}{{ page.image }}{% else if post.image %}{{ post.image }}{% else %}/images/benina-landscape.png{% endif %}" />
   <meta name="twitter:image:alt" content="{% if page.image_alt %}{{ page.image_alt }}{% else if post.image %}{{ post.image_alt }}{% else %}Logo {{ site.title }}{% endif %}">
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/uswds/1.3.1/js/uswds.min.js"></script>
