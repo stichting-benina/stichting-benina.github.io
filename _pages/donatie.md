@@ -18,7 +18,7 @@ Wilt u een een bedrag direct overmaken met iDEAL of PayPal voor een donatie aan 
 
 <a class="usa-button usa-button-primary" target="_blank" href="https://useplink.com/payment/UvvgIsjOpdnc17GJZHuK/">Maak nu een bedrag over</a>
 
-Donateurs van Stichting Benina werken mee aan het mogelijk maken van projecten. Lopend project is [Frozen water](/beleidsplan/)\*, in actieve voorbereiding is Genius Loci.
+Donateurs van Stichting Benina werken mee aan het mogelijk maken van projecten. Lopend project is Frozen water\*, in actieve voorbereiding is Genius Loci.
 
 Als donateur wordt u als eerste op de hoogte gesteld van het verloop van de projecten, u wordt uitgenodigd op speciale dagen voor donateurs, speciale viewings, of openingen en u krijgt korting op specifieke edities.
 
