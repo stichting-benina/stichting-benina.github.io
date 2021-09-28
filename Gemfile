@@ -9,3 +9,6 @@ gem 'jemoji'
 gem 'jekyll-mentions'
 gem 'jekyll-redirect-from'
 gem "jekyll-feed", "~> 0.12"
+gem "nokogiri", ">= 1.12.5"
+
+
