@@ -7,7 +7,7 @@ image_alt: "Logo Stichting Benina"
 
 # Organisatie
 
-(allen onbezoldigde functies)
+Allen onbezoldigde functies.
 
 ## raad van advies
 
