@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amsterdams Fonds voor de Kunsten, het Mondriaanfonds en de sponsoren maken de solo-presentatie van Carina Ellemers bij kunstinstelling Nieuw Dakota mogelijk"
+title: "Amsterdams Fonds voor de Kunsten, het Mondriaanfonds en de sponsoren maken een solo-presentatie van Carina Ellemers mogelijk"
 description: "Presentatie gepland voor maart-april 2022"
 image: "/images/1-Still-regenMVI_0124.jpg"
 image_alt: "filmstill - ijs halen bij de fabriek in een tropische regenbui, Klaten, Java 2018"
@@ -8,11 +8,9 @@ date: 2021-05-25 17:45:13 +0200
 categories: nieuws
 ---
 
-# Amsterdams Fonds voor de Kunsten, het Mondriaanfonds en de sponsoren maken de solo-presentatie van Carina Ellemers bij kunstinstelling Nieuw Dakota mogelijk
+# Amsterdams Fonds voor de Kunsten, het Mondriaanfonds en de sponsoren maken een solo-presentatie van Carina Ellemers mogelijk
 
 <p><strong>25 mei 2021</strong></p>
-
-Door covid-19 is de datum verschoven naar maart-april 2022 bij [kunstinstelling Nieuw Dakota](https://nieuwdakota.com/).
 
 In Frozen water/Es balok is te zien hoe koelijsproductie en distributie in en om een kleine koelijsfabriek, als een continuerend cyclisch 24-uurs proces in de stad Klaten op midden Java plaatsvindt.
 
