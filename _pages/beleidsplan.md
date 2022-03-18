@@ -65,4 +65,7 @@ gestreefd wordt naar een periode van research doen, aanvragen verzorgen*, financ
 [<img width="210" class="donor-logo" alt="Logo Amsterdams Fonds voor de kunst AFK" src="/images/tungsten-pro-logo.png">](https://www.tungstenstudio.nl/)
 <br><small>[https://www.tungstenstudio.nl/](https://www.tungstenstudio.nl/)</small>
 
+[<img width="210" class="donor-logo" alt="Logo Stichting VEVAM Fonds (SVF)" src="/images/vevam-fonds-logo.jpg">](https://vevamfonds.vevam.org/)
+<br><small>[https://vevamfonds.vevam.org/](https://vevamfonds.vevam.org/)</small>
+
 </div>
