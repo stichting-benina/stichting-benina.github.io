@@ -20,8 +20,7 @@ Allen onbezoldigde functies.
 
 ## het bestuur
 
-* voorzitter: Inez van Eijk \\
- [https://nl.wikipedia.org/wiki/Inez_van_Eijk](https://nl.wikipedia.org/wiki/Inez_van_Eijk)
+* voorzitter: Henk Marseille
 * penningmeester: Joyce Gabeler \\
  [https://gabeler-project.nl/over/](https://gabeler-project.nl/over/)
 * secretaris: Joop Laan \\
