@@ -20,10 +20,12 @@ Allen onbezoldigde functies.
 
 ## het bestuur
 
-* voorzitter: Henk Marseille
+* voorzitter: Henk Marseille \\
+ Henk Marseille schilderde gevelborden voor het Grand Theatre in Groningen, maakte postzegels voor KPN, magazines voor het Stedelijk Museum Amsterdam, attributen voor evenementenbureau Malgil, krantenpagina’s en bijlagen voor NRC, Trouw en AD. Hij houdt van plaatjes knippen.
 * penningmeester: Joyce Gabeler \\
  [https://gabeler-project.nl/over/](https://gabeler-project.nl/over/)
 * secretaris: Joop Laan \\
+ Joop Laan bouwt websites, houdt van het bijhouden van de ontwikkelingen op allerlei gebieden, zoals maatschappelijk, technologisch en filosofisch. En houdt van lekker koken en eten. \\
  [https://www.jooplaan.com/](https://www.jooplaan.com/)
 
 Stichting Benina heeft kennis genomen van de [governance code, de code diversiteit en inclusie](https://bij.cultuur-ondernemen.nl/governance-code-cultuur/principe/introductie) en onderschrijft deze.

@@ -18,17 +18,16 @@ Wilt u een een bedrag direct overmaken met iDEAL of PayPal voor een donatie aan 
 
 <a class="usa-button usa-button-primary" target="_blank" href="https://useplink.com/payment/UvvgIsjOpdnc17GJZHuK/">Maak nu een bedrag over</a>
 
-Donateurs van Stichting Benina werken mee aan het mogelijk maken van projecten. Lopend project is Frozen water\*, in actieve voorbereiding is Sumur.
+Donateurs van Stichting Benina werken mee aan het mogelijk maken van projecten.
 
 Als donateur wordt u als eerste op de hoogte gesteld van het verloop van de projecten, u wordt uitgenodigd op speciale dagen voor donateurs, speciale viewings, of openingen en u krijgt korting op specifieke edities.
 
 Stichting Benina bestaat door het enthousiasme van een onbezoldigd bestuur. Het wil cultuur in de meest algemene zin van het woord bevorderen.
 
-\* Frozen water, de film en expositie lopen vertraging op door corona\\
 <small>Noot: aan het verkrijgen van een Culturele ANBI status wordt gewerkt.</small>
 
 ## Contact
-U kunt te allen tijde contact opnemen met Carina Ellemers <a href="mailto:c@ellemers.com">c@ellemers.com</a> of met voorzitter van het bestuur van de stichting, Inez van Eijk <a href="mailto:ivaneijk@dds.nl">ivaneijk@dds.nl</a>.
+U kunt te allen tijde contact opnemen met Carina Ellemers <a href="mailto:c@ellemers.com">c@ellemers.com</a>.
 
 <br><br><br>
 
