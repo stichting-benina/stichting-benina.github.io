@@ -36,7 +36,7 @@ Er zijn nog enkele plaatsen beschikbaar. Aanmelden bij: <a href="mailto:c@elleme
 16.20 film
 
 
-In Galerie Lemaire zijn werken van Carina Ellemers tentoongesteld en is plek op de muur vrij gemaakt om Es balok, omringd door objecten uit voornamelijk Indonesië – zoals Wayang Klitiks, kruidnagelbootjes, Dayak amuletten en Sumba schilden – te projecteren.
+In [Galerie Lemaire](https://gallery-lemaire.com/) zijn werken van Carina Ellemers tentoongesteld en is plek op de muur vrij gemaakt om Es balok, omringd door objecten uit voornamelijk Indonesië – zoals Wayang Klitiks, kruidnagelbootjes, Dayak amuletten en Sumba schilden – te projecteren.
 
 Vanaf een kleine koelijs-fabriek op Java worden de Indonesische mannen van het koelijs gevolgd als zij stil en volhardend grote staven ijs met gebruik van haken en pinnen voortbewegen en ze in vrachtwagens, op brommers en karren naar haven, markt en eetstalletjes brengen.
 
