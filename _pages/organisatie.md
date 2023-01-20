@@ -35,7 +35,7 @@ Stichting Benina \\
 Nieuwe Amstelstraat 109 \\
 1011 PL Amsterdam
 
-contact: c.ellemers, [c@ellemers.com](mailto:c@ellemers.com)
+contact: c.ellemers, directeur [c@ellemers.com](mailto:c@ellemers.com)
 
 RSIN / fiscaal nummer 805539633 \\
 KvK nummer 41214844 \\
