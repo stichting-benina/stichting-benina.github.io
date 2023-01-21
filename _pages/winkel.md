@@ -14,9 +14,9 @@ The form is inventive, readable from both sides. If you read the book in English
 
 Make this book possible by ordering
 
-1. the book: € 32,50
-2. a filmstill from the film Es balok in passepartout: € 95,- <sup>*</sup>
-3. a filmstill from the film Es balok in pink on silk on wooden stretcher: € 450,- <sup>*</sup>
+1. the book: € 32,50 [Order now]()
+2. a filmstill from the film Es balok in passepartout: € 95,- <sup>*</sup> [Order now]()
+3. a filmstill from the film Es balok in pink on silk on wooden stretcher: € 450,- <sup>*</sup> [Order now]()
 
 <sup>*</sup><small> a signed and numbered work in edition</small>
 
