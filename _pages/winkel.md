@@ -1,7 +1,7 @@
 ---
 title: Winkel
 layout: page
-description: "Ondersteun Stichting Benina"
+description: "Stichting Benina winkel"
 image: "/images/benina-landscape.png"
 image_alt: "Logo Stichting Benina"
 ---
