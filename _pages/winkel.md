@@ -1,11 +1,11 @@
 ---
-title: Winkel
+title: Shop
 layout: page
 description: "Stichting Benina winkel"
 image: "/images/benina-landscape.png"
 image_alt: "Logo Stichting Benina"
 ---
-# Winkel
+# Shop
 
 
 Ice, the book, ingeniously designed by graphical designer Lies Ros with a preface of Tijs Goldschmidt (winner P.C. Hooft-prijs 2023) contains about 34 small texts and circa 35 historical fascinating photographs that tell about the incredible worldwide history of ice- trade. It started with natural ice, changed in industrial made ice and connected people all over the world, from America to India, from Norway to The Netherlands and to Indonesia. As As well in form as in story the book is clear as ice.
@@ -14,9 +14,9 @@ The form is inventive, readable from both sides. If you read the book in English
 
 Make this book possible by ordering
 
-1. the book: € 32,50 [Order now]()
-2. a filmstill from the film Es balok in passepartout<sup>*</sup>: € 95,-  [Order now]()
-3. a filmstill from the film Es balok in pink on silk on wooden stretcher<sup>*</sup>: € 450,- [Order now]()
+1. the book: € 32,50 [Order now](https://useplink.com/payment/dbF31lqk9SWb9UzgZ6FoS/)
+2. a filmstill from the film Es balok in passepartout<sup>*</sup>: € 95,-  [Order now](https://useplink.com/payment/l229MHKUfxAg1nkPNKryu/)
+3. a filmstill from the film Es balok in pink on silk on wooden stretcher<sup>*</sup>: € 450,- [Order now](https://useplink.com/payment/FkRvfvhMsrc34PpKzfc1z/)
 
 <sup>*</sup><small> a signed and numbered work in edition</small>
 
