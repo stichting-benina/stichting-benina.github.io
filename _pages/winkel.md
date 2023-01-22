@@ -1,5 +1,5 @@
 ---
-title: Fundraising
+title: Fundraising Ice, the book
 layout: page
 description: "Stichting Benina winkel"
 image: "/images/benina-landscape.png"
