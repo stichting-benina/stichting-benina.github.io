@@ -5,7 +5,7 @@ description: "Stichting Benina winkel"
 image: "/images/benina-landscape.png"
 image_alt: "Logo Stichting Benina"
 ---
-# Fundraising Ice, the book
+# Fundraising *Ice, the book*
 
 Ice, the book, ingeniously designed by graphical designer Lies Ros with a preface of Tijs Goldschmidt (winner P.C. Hooft-prijs 2023) contains about 34 small texts and circa 35 historical fascinating photographs that tell about the incredible worldwide history of ice- trade. It started with natural ice, changed in industrial made ice and connected people all over the world, from America to India, from Norway to The Netherlands and to Indonesia. As As well in form as in story the book is clear as ice.
 
