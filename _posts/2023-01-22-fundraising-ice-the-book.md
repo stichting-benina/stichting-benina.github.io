@@ -1,9 +1,12 @@
 ---
-title: Fundraising Ice, the book
-layout: page
+layout: post
+title: "Fundraising Ice, the book"
 description: "Make Ice, the book possible"
+image: "/images/IMG_8756.jpg"
 image: "/images/benina-landscape.png"
 image_alt: "Logo Stichting Benina"
+date: 2023-01-22 10:30:13 +0200
+categories: nieuws
 ---
 # Fundraising *Ice, the book*
 
@@ -13,9 +16,9 @@ The form is inventive and readable from both sides. If you read the book in Engl
 
 ### Make this book possible by ordering
 
-1. the book: € 32,50 [Order now](https://useplink.com/payment/dbF31lqk9SWb9UzgZ6FoS/)
-2. the book + a filmstill from the film Es balok in passepartout<sup>*</sup>: € 95,-  [Order now](https://useplink.com/payment/l229MHKUfxAg1nkPNKryu/)
-3. the book + a filmstill from the film Es balok in pink on silk on wooden stretcher<sup>*</sup>: € 450,- [Order now](https://useplink.com/payment/FkRvfvhMsrc34PpKzfc1z/)
+1. Ice, the book: € 32,50 [Order now](https://useplink.com/payment/dbF31lqk9SWb9UzgZ6FoS/)
+2. Ice, the book + a filmstill from the film Es balok in passepartout<sup>*</sup>: € 95,-  [Order now](https://useplink.com/payment/TWuFcrV4zsjy7dotZYxa7/)
+3. Ice, the book + a filmstill from the film Es balok in pink on silk on wooden stretcher<sup>*</sup>: € 450,- [Order now](https://useplink.com/payment/exv8H6UQUdUvCmLXcNo1y/)
 
 <sup>*</sup><small> a signed and numbered work in edition</small>
 
@@ -32,4 +35,3 @@ This special book is part of the ice-project. This project includes the document
 <br><small>filmstill from the film Es balok in pink on silk on wooden stretcher</small>
 
 </div>
-

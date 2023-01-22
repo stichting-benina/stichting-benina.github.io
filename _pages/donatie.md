@@ -7,6 +7,9 @@ image_alt: "Logo Stichting Benina"
 ---
 # Doneren
 
+
+[Doe nu mee met de fundraising om ICE/IJS, het boek mogelijk te maken](/actueel/2023-01-22-fundraising-ice-the-book/)
+
 Wilt u Stichting Benina steunen maak dan een bedrag over naar:
 
 <div class="usa-alert extra-margin-bottom">
