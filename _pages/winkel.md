@@ -1,7 +1,7 @@
 ---
 title: Fundraising Ice, the book
 layout: page
-description: "Stichting Benina winkel"
+description: "Make Ice, the book possible"
 image: "/images/benina-landscape.png"
 image_alt: "Logo Stichting Benina"
 ---
