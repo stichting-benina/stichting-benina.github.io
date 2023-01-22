@@ -7,15 +7,15 @@ image_alt: "Logo Stichting Benina"
 ---
 # Fundraising *Ice, the book*
 
-Ice, the book, ingeniously designed by graphical designer Lies Ros with a preface of Tijs Goldschmidt (winner P.C. Hooft-prijs 2023) contains about 34 small texts and circa 35 historical fascinating photographs that tell about the incredible worldwide history of ice- trade. It started with natural ice, changed in industrial made ice and connected people all over the world, from America to India, from Norway to The Netherlands and to Indonesia. As As well in form as in story the book is clear as ice.
+Ice, the book, ingeniously designed by graphical designer Lies Ros with a preface of Tijs Goldschmidt (winner P.C. Hooft-Prijs 2023), contains about 34 small texts and circa 35 fascinating historical photographs that tell about the incredible worldwide history of the ice-trade. As well as in form and story, the book is clear as ice. It started with natural ice, changed to industrial-made ice, and connected people worldwide, from America to India, Norway to The Netherlands, and Indonesia.
 
-The form is inventive, readable from both sides. If you read the book in English the story starts with the refrigerator and goes back in time towards the trade in natural ice. If one reads it in Dutch, it starts with natural ice and unfolds chronologically towards the time of the refrigerator. Every text has a title with the word ice in it, from ‘ice harvest’ to ‘ice cellar’, from ‘dead ice hole’ to ‘ice plough’. Transparent pages will be part of the book, as the cover itself is also transparent, the word ICE shines through.
+The form is inventive and readable from both sides. If you read the book in English, the story starts with the refrigerator and returns to the trade in natural ice. If one reads it in Dutch, it starts with natural ice and unfolds chronologically toward the time of the refrigerator. Every text has a title with the word ice in it, from ‘ice harvest’ to ‘ice cellar,’ from ‘dead ice hole’ to ‘ice plough.’ Transparent pages will be part of the book; the cover itself is also transparent, and the word ICE shines through.
 
 ### Make this book possible by ordering
 
 1. the book: € 32,50 [Order now](https://useplink.com/payment/dbF31lqk9SWb9UzgZ6FoS/)
-2. a filmstill from the film Es balok in passepartout<sup>*</sup>: € 95,-  [Order now](https://useplink.com/payment/l229MHKUfxAg1nkPNKryu/)
-3. a filmstill from the film Es balok in pink on silk on wooden stretcher<sup>*</sup>: € 450,- [Order now](https://useplink.com/payment/FkRvfvhMsrc34PpKzfc1z/)
+2. the book + a filmstill from the film Es balok in passepartout<sup>*</sup>: € 95,-  [Order now](https://useplink.com/payment/l229MHKUfxAg1nkPNKryu/)
+3. the book + a filmstill from the film Es balok in pink on silk on wooden stretcher<sup>*</sup>: € 450,- [Order now](https://useplink.com/payment/FkRvfvhMsrc34PpKzfc1z/)
 
 <sup>*</sup><small> a signed and numbered work in edition</small>
 
