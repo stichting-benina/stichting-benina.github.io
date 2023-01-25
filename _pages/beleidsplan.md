@@ -33,9 +33,9 @@ Met steun van donateurs van Stichting Benina en het Amsterdams Fonds voor de Kun
 
 * "IJs over het IJ korte film op de pont tussen centraal station Amsterdam en NDSM getoond 2022
 
-* “Es balok” (rough cut) 70 minuten, twee viewings 21 en 22 december 2022 Galerie Lemaire Amsterdam plus de presentatie van IJs, boek in wording.
-<br>voorwoord Tijs Goldschmidt, ontwerp Lies Ros
-<br>([Doe nu mee met de fundraising om ICE/IJS, het boek mogelijk te maken](/actueel/2023-01-22-fundraising-ice-the-book/))
+* “Es balok” (rough cut) 70 minuten, twee viewings 21 en 22 december 2022 Galerie Lemaire Amsterdam plus de presentatie van IJs, boek in wording.\\
+voorwoord Tijs Goldschmidt, ontwerp Lies Ros\\
+([Doe nu mee met de fundraising om ICE/IJS, het boek mogelijk te maken](/actueel/2023-01-22-fundraising-ice-the-book/))
 
 ### interdisciplinair project (film - expositie - publicatie)
 aanvragen verzorgen*, [financiering rondkrijgen en realisering](/donatie)
