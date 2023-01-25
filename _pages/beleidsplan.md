@@ -1,16 +1,15 @@
 ---
-title: toekomst/ beleidsplan 2019 - 2022
+title: toekomst/ beleidsplan 2023 - 2026
 layout: page
 image: "/images/benina-landscape.png"
 image_alt: "Logo Stichting Benina"
 ---
 
-# toekomst/ beleidsplan 2019 - 2022
+# toekomst/ beleidsplan 2023 - 2026
 
 Voor de volgende drie jaar bestaat het beleidsplan uit
 * het ontwikkelen van plannen voor films en video-installatie en realisering
 * het uitbreiden van de stichting met ‘vrienden’ (o.a. donateurs en vrijwilligers)
-* culturele ANBI status verwerven
 
 
 ## Frozen water/Es balok
@@ -32,6 +31,12 @@ Met steun van donateurs van Stichting Benina en het Amsterdams Fonds voor de Kun
 
 * filmstills (in 30-er jaren patroonpapier beplakte passe-partouts) werden door galerie Hidde van Seggelen Gallery getoond op Art Rotterdam februari 2019
 
+* "IJs over het IJ korte film op de pont tussen centraal station Amsterdam en NDSM getoond 2022
+
+* “Es balok” (rough cut) 70 minuten, twee viewings 21 en 22 december 2022 Galerie Lemaire Amsterdam plus de presentatie van IJs, boek in wording.
+<br>voorwoord Tijs Goldschmidt, ontwerp Lies Ros
+<br>([Doe nu mee met de fundraising om ICE/IJS, het boek mogelijk te maken](/actueel/2023-01-22-fundraising-ice-the-book/))
+
 ### interdisciplinair project (film - expositie - publicatie)
 aanvragen verzorgen*, [financiering rondkrijgen en realisering](/donatie)
 2019/2020
@@ -41,7 +46,17 @@ aanvragen verzorgen*, [financiering rondkrijgen en realisering](/donatie)
 film \\
 over architectuur\\
 bestaat er werkelijk zoiets als de ziel van een gebouw?\\
-gestreefd wordt naar een periode van research doen, aanvragen verzorgen*, financiering rondkrijgen en realisering in 2021
+gestreefd wordt naar een periode van research doen, aanvragen verzorgen*, financiering rondkrijgen en realisering in 2026
+
+## ICE
+
+boek in Nederlands en Engels
+Ice, the book, ingeniously designed by graphical designer Lies Ros with a preface of Tijs Goldschmidt (winner P.C. Hooft-prijs 2023), contains about 34 small texts and circa 35 fascinating historical photographs that tell about the incredible worldwide history of the ice trade. As well as in form and story, the book is clear as ice. It covers the period from natural ice trade to industrial-made ice in which it connected people worldwide, from America to India, Norway to The Netherlands, and Indonesia.
+
+The form is inventive and readable from both sides. If you read the book in English, the story starts with the refrigerator and returns to the trade in natural ice. If one reads it in Dutch, it starts with natural ice and unfolds chronologically toward the time of the refrigerator. Every text has a title with the word ice in it, from ‘ice harvest’ to ‘ice cellar,’ from ‘dead ice hole’ to ‘ice plough.’ Transparent pages will be part of the book; the cover itself is also transparent, and the word ICE shines through.
+
+gestreefd wordt naar een periode van financiering rondkrijgen en realisering in 2023
+
 
 ## Crossroads
 
@@ -53,17 +68,14 @@ gestreefd wordt naar een periode van research doen, aanvragen verzorgen*, financ
 
 ## En verder
 
-* werving voor de stichting inzetten, een kring van vrienden betrekken bij de werkzaamheden van de stichting. dit kan door financiële bijdrage of door werkzaamheden voor de stichting te verrichten.
-2018 - 2021
-* Van het Amsterdams Fonds voor de Kunsten is in 2018 een ontwikkelbudget toegezegd gekregen voor het project Es balok. Andere financieringsmogelijkheden worden onderzocht bij fondsen als Stichting Niemeijer Fonds als ook wordt Cinecrowd i.s.m. het Mondriaanfonds onderzocht.
+* Werving voor de stichting. Dit kan door financiële bijdrage of door werkzaamheden voor de stichting te verrichten. 2023 - 2026
+* Van het Amsterdams Fonds voor de Kunsten is in 2018 een ontwikkelbudget toegezegd gekregen voor het project Es balok. In 2021 is een realiseringsbudget toegezegd.
+* Grafisch ontwerper Lies Ros is sponsor van het IJs-boek
 
 <br><br><br><br>
 <div class="flexbox">
 
 [<img width="342" class="donor-logo" alt="Logo Tungsten Pro" src="/images/afk-logo.svg">](https://www.amsterdamsfondsvoordekunst.nl/)
-
-[<img width="210" class="donor-logo" alt="Logo Amsterdams Fonds voor de kunst AFK" src="/images/tungsten-pro-logo.png">](https://www.tungstenstudio.nl/)
-<br><small>[https://www.tungstenstudio.nl/](https://www.tungstenstudio.nl/)</small>
 
 [<img width="210" class="donor-logo" alt="Logo Stichting VEVAM Fonds (SVF)" src="/images/vevam-fonds-logo.jpg">](https://vevamfonds.vevam.org/)
 <br><small>[https://vevamfonds.vevam.org/](https://vevamfonds.vevam.org/)</small>
