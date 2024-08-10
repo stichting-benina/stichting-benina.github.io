@@ -13,6 +13,13 @@ brew update
 brew install ruby
 ```
 
+```
+rbenv global 3.2.3
+gem install bundler
+gem install posix-spawn -- --with-cflags="-Wno-incompatible-function-pointer-types"
+gem install bundler
+
+```
 To serve this website locally, using `website` as the name of your new repository:
 Run each of the following steps to get the site up and running.
 
