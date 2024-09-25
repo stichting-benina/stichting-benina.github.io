@@ -18,7 +18,7 @@ GEM
     ffi (1.17.0)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
-    google-protobuf (4.27.3)
+    google-protobuf (4.27.5)
       bigdecimal
       rake (>= 13)
     hash-joiner (0.0.7)
