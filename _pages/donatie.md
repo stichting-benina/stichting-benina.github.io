@@ -19,7 +19,7 @@ Wilt u Stichting Benina steunen maak dan een bedrag over naar:
 
 Wilt u een een bedrag direct overmaken met iDEAL of PayPal voor een donatie aan Stichting Benina? Nu kan het!
 
-<a class="usa-button usa-button-primary" target="_blank" href="https://useplink.com/payment/UvvgIsjOpdnc17GJZHuK/">Maak nu een bedrag over</a>
+<a class="usa-button usa-button-primary" target="_blank" href="https://payment-links.mollie.com/payment/HV2XkYLCjgF5oAXuFwR6M">Maak nu een bedrag over</a>
 
 Donateurs van Stichting Benina werken mee aan het mogelijk maken van projecten.
 
