@@ -7,19 +7,12 @@ image_alt: "Logo Stichting Benina"
 ---
 # Doneren
 
-
-[Doe nu mee met de fundraising om ICE/IJS, het boek mogelijk te maken](/actueel/2023-01-22-fundraising-ice-the-book/)
-
 Wilt u Stichting Benina steunen maak dan een bedrag over naar:
 
 <div class="usa-alert extra-margin-bottom">
 	Stichting Benina
 	NL29 INGB 0000 8374 81
 </div>
-
-Wilt u een een bedrag direct overmaken met iDEAL of PayPal voor een donatie aan Stichting Benina? Nu kan het!
-
-<a class="usa-button usa-button-primary" target="_blank" href="https://payment-links.mollie.com/payment/HV2XkYLCjgF5oAXuFwR6M">Maak nu een bedrag over</a>
 
 Donateurs van Stichting Benina werken mee aan het mogelijk maken van projecten.
 

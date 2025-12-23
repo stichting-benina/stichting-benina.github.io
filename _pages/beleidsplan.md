@@ -7,7 +7,8 @@ image_alt: "Logo Stichting Benina"
 
 # toekomst/ beleidsplan 2023 - 2026
 
-Voor de volgende drie jaar bestaat het beleidsplan uit
+Het beleidsplan bestaat uit
+
 * het ontwikkelen van plannen voor films en video-installatie en realisering
 * het uitbreiden van de stichting met ‘vrienden’ (o.a. donateurs en vrijwilligers)
 
@@ -35,7 +36,6 @@ Met steun van donateurs van Stichting Benina en het Amsterdams Fonds voor de Kun
 
 * “Es balok” (rough cut) 70 minuten, twee viewings 21 en 22 december 2022 Galerie Lemaire Amsterdam plus de presentatie van IJs, boek in wording.\\
 voorwoord Tijs Goldschmidt, ontwerp Lies Ros\\
-([Doe nu mee met de fundraising om ICE/IJS, het boek mogelijk te maken](/actueel/2023-01-22-fundraising-ice-the-book/))
 
 ### interdisciplinair project (film - expositie - publicatie)
 aanvragen verzorgen*, [financiering rondkrijgen en realisering](/donatie)
@@ -57,6 +57,7 @@ The form is inventive and readable from both sides. If you read the book in Engl
 
 gestreefd wordt naar een periode van financiering rondkrijgen en realisering in 2023
 
+**Boek gerealiseerd**, [meer informatie over het boek en bestellen](https://carinaellemers.nl/project-ijs-ice/book/)
 
 ## Crossroads
 
