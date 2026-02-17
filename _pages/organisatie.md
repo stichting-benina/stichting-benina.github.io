@@ -11,8 +11,6 @@ Allen onbezoldigde functies.
 
 ## raad van advies
 
-* Janwillem Schrofer \\
- adviseur, gastdocent, auteur (Plan and Play, Play and Plan: Defining Your Art Practice, 2018), was directeur Rijksakademie 1982-2010
 * Frans Vreeke \\
  directeur bestuurder TivoliVredenburg (2014 - 2018) momenteel interim directeur Melkweg
 * Kamiel Koelman \\
