@@ -16,6 +16,10 @@ Allen onbezoldigde functies.
 * Kamiel Koelman \\
  media-advocaat
 
+Janwillem Schrofer (1945 - 2026) \\
+adviseur, gastdocent, auteur (Plan and Play, Play and Plan: Defining Your Art Practice, 2018), was directeur Rijksakademie 1982-2010 \\
+van 2020 tot 2026 maakte hij deel uit van de raad van advies. Als bestuur, raad van advies en directeur zijn we dankbaar voor zijn inzet en warme betrokkenheid.
+
 ## het bestuur
 
 * voorzitter: Henk Marseille \\
@@ -26,6 +30,10 @@ Joyce Gabeler ondersteunt graag kunstenaars die bijzondere kunstprojecten willen
  Joop Laan bouwt websites, en vindt het belangrijk om de ontwikkelingen op allerlei gebieden bij te houden, zoals de kunsten, maatschappelijke ontwikkelingen, technologisch en filosofisch. En houdt van lekker koken en eten.
 
 Stichting Benina heeft kennis genomen van de [governance code, de code diversiteit en inclusie](https://bij.cultuur-ondernemen.nl/governance-code-cultuur/principe/introductie) en onderschrijft deze.
+
+## directeur
+
+Carina Ellemers
 
 ## adres
 
